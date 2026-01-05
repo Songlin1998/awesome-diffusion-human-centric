@@ -20,11 +20,25 @@
 * **The Origin of [Your Topic]** | *Nature '15* | [[Paper]](链接) [[Code]](链接)
 
 ## 🧑🏻 Face
-### 2024
+
+### Face Generation
 * **Paper Title Here** | *CVPR '24* | [[Paper]](链接) [[Code]](链接) [[Project]](链接)
- 
+
+### Face Editing
+* **Paper Title Here** | *CVPR '24* | [[Paper]](链接) [[Code]](链接) [[Project]](链接)
+
+### Face Animation
+* **Paper Title Here** | *CVPR '24* | [[Paper]](链接) [[Code]](链接) [[Project]](链接)
+
 ## 🏃 Body
-### 2023
+
+### Body Generation
+* **Paper Title Here** | *NeurIPS '23* | [[Paper]](链接)
+
+### Virtual Try-On
+* **Paper Title Here** | *NeurIPS '23* | [[Paper]](链接)
+
+### Human Animation
 * **Paper Title Here** | *NeurIPS '23* | [[Paper]](链接)
 
 ## 📊 Datasets & Benchmarks
