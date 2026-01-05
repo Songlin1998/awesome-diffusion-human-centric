@@ -1,4 +1,4 @@
-# Awesome-Diffusion-Human-Centric 🚀
+# Awesome-Diffusion-Human-Centric  
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
