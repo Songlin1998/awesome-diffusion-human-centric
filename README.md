@@ -17,18 +17,18 @@
 * **A Comprehensive Survey on [Your Topic]** | *ArXiv '24* | [[Paper]](链接)
 
 ## 🏗️ Foundations
-* **The Origin of [Your Topic]** | *Nature '15* | [[Paper]](链接) [[Code]](链接)
+* **The Origin of [Your Topic]** | *Nature '15* | [[Paper]](链接) 
 
 ## 🧑🏻 Face
 
 ### Face Generation
-* **Paper Title Here** | *CVPR '24* | [[Paper]](链接) [[Code]](链接) [[Project]](链接)
+* **Paper Title Here** | *CVPR '24* | [[Paper]](链接) 
 
 ### Face Editing
-* **Paper Title Here** | *CVPR '24* | [[Paper]](链接) [[Code]](链接) [[Project]](链接)
+* **Paper Title Here** | *CVPR '24* | [[Paper]](链接) 
 
 ### Face Animation
-* **Paper Title Here** | *CVPR '24* | [[Paper]](链接) [[Code]](链接) [[Project]](链接)
+* **Paper Title Here** | *CVPR '24* | [[Paper]](链接) 
 
 ## 🏃 Body
 
