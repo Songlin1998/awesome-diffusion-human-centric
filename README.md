@@ -5,19 +5,10 @@
 ---
 
 ## 📑 Table
-- [🎯 Surveys](#-surveys)
-- [🏗️ Foundations](#-foundations)
 - [🧑🏻 Face](#-face)
 - [🏃 Body](#-body)
-- [📊 Datasets & Benchmarks](#-datasets--benchmarks)
 
----
-
-## 🎯 Surveys
-* **A Comprehensive Survey on [Your Topic]** | *ArXiv '24* | [[Paper]](链接)
-
-## 🏗️ Foundations
-* **The Origin of [Your Topic]** | *Nature '15* | [[Paper]](链接) 
+--- 
 
 ## 🧑🏻 Face
 
@@ -134,9 +125,6 @@
 
 ### Human Animation
 * **Paper Title Here** | *NeurIPS '23* | [[Paper]](链接)
-
-## 📊 Datasets & Benchmarks
-* **Dataset-Name** | [[Link]](链接) | *Description: 包含 10M 数据的大型基准。*
 
 ---
 
