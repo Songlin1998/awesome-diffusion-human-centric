@@ -204,8 +204,8 @@
 * **Animate-A-Story: Storytelling with Retrieval-Augmented Video Generation** | *arXiv '23* | [[Paper]](https://arxiv.org/abs/2307.06940)
 * **TALK-Act: Enhance Textural-Awareness for 2D Speaking Avatar Reenactment with Diffusion Model** | *SIGGRAPH Asia '24* | [[Paper]](https://arxiv.org/abs/2410.10696)
 * **CyberHost: Taming Audio-Driven Avatar Diffusion Model with Region Codebook Attention** | *arXiv '24* | [[Paper]](https://arxiv.org/abs/2409.01876)
-* **Follow-your-click: Open-domain regional image animation via motion prompts** | *AAAI '25* | [[Paper]](https://arxiv.org/abs/2409.01876](https://arxiv.org/abs/2403.08268?utm_source=chatgpt.com)
-* **ContextualStory: Consistent Visual Storytelling with Spatially-Enhanced and Storyline Context** | *AAAI '25* | [[Paper]](https://arxiv.org/abs/2409.01876](https://arxiv.org/abs/2403.08268?utm_source=chatgpt.com](https://arxiv.org/abs/2407.09774)
+* **Follow-your-click: Open-domain regional image animation via motion prompts** | *AAAI '25* | [[Paper]](https://arxiv.org/abs/2403.08268)
+* **ContextualStory: Consistent Visual Storytelling with Spatially-Enhanced and Storyline Context** | *AAAI '25* | [[Paper]](https://arxiv.org/abs/2407.09774)
 
 ---
 
