@@ -11,9 +11,12 @@
 ## 📑 Table
 - [🧑🏻 Face](#-face)
   - [Face Generation](#face-generation)
+  - [Face Editing](#face-editing)
+  - [Face Animation](#face-animation)
 - [🏃 Body](#-body)
   - [Body Generation](#body-generation)
-
+  - [Virtual Try-On](#virtual-try-on)
+  - [Human Animation](#human-animation)
 
 --- 
 
