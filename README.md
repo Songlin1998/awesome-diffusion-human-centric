@@ -10,9 +10,9 @@
 
 ## 📑 Table
 - [🧑🏻 Face](#-face)
-  - [Face Generation](#-facegeneration)
+  - [Face Generation](#-face_generation)
 - [🏃 Body](#-body)
-  - [Body Generation](#-bodygeneration)
+  - [Body Generation](#-body_generation)
 --- 
 
 ## 🧑🏻 Face
