@@ -12,7 +12,7 @@
 - [🧑🏻 Face](#-face)
   - [Face Generation](#-facegeneration)
 - [🏃 Body](#-body)
-
+  - [Body Generation](#-bodygeneration)
 --- 
 
 ## 🧑🏻 Face
